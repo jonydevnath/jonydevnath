@@ -23,6 +23,6 @@ I'm a passionate **Django Developer** with a knack for solving complex problems 
 ## 📫 Let's Connect
 - **LinkedIn:**
 - **Twitter:** 
-- **Portfolio:** [My Portfolio](https://jonydevnath1.github.io/jonydevnath/)
+- **Portfolio:** [My Portfolio](https://jonydevnath.github.io/jonydevnath1/)
 
 Feel free to check out my repositories, star them if you find something interesting, and connect with me for collaboration opportunities or just to say hi!
