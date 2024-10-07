@@ -21,8 +21,8 @@ I'm a passionate **Django Developer** with a knack for solving complex problems 
 - Contribute to open-source projects that align with my interests.
 
 ## 📫 Let's Connect
-- **LinkedIn:**
-- **Twitter:** 
-- **Portfolio:**
+- **LinkedIn**
+- **Twitter** 
+- **Portfolio**
 
 Feel free to check out my repositories, star them if you find something interesting, and connect with me for collaboration opportunities or just to say hi!
